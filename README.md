@@ -96,8 +96,7 @@ taskflow-web-app-demo/
 1. 克隆项目
 
 ```bash
-git clone https://github.com/Albert-Vanderboom/taskflow-web-app-demo.git
-cd taskflow-web-app-demo
+git clone ...
 ```
 
 2. 启动后端
@@ -159,8 +158,8 @@ npm run dev
 
 ## 联系方式
 
-- 项目链接: [https://github.com/Albert-Vanderboom/taskflow-web-app-demo](https://github.com/Albert-Vanderboom/taskflow-web-app-demo)
-- 作者邮箱: [2001dwt@gmail.com](mailto:2001dwt@gmail.com)
+- 项目链接: [https://github.com/Stackhu/-/tree/main#](https://github.com/Stackhu/-/tree/main#)
+- 作者邮箱: [1481707546@qq.com](mailto:1481707546@qq.com)
 
 ## 致谢
 
